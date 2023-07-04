@@ -1,9 +1,9 @@
-package Basics;
+w 	package Basics;
 /*Type  Casting - Primitive data types change one type to another type. 
 Two types
 Widening Casting 
 small to big data type
-Narrow Casting
+Narrow Casting                
 big to small data type
 */
 public class TypeCasting {

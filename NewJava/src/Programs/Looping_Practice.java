@@ -6,8 +6,8 @@ public class Looping_Practice {
         // lp.printing_reverse_number(9697);
         // lp.find_count_of_digits(1234);
         // lp.find_sum_of_digts(2023);
-        // lp.reverse_whole_number(1234);
-        lp.find_palindrome(12321);
+        lp.reverse_whole_number(1234);
+       // lp.find_palindrome(12321);
     }
 
     private void find_palindrome(int i) {
