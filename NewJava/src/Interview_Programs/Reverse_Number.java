@@ -9,7 +9,7 @@ Scanner sc = new Scanner(System.in);
 System.out.println("Enter the Number : ");
 int n =sc.nextInt();//123
 int reverse=0,rem;
-while(n!=0)//123!=0 12!=0 1!=0 0!=0
+while(n>0)//123!=0 12!=0 1!=0 0!=0
 {
 rem=n%10; //3 2 1
 reverse=(reverse*10)+rem; //(0*10)+3 => 3 (3*10)+2 =>32 (32*10)+1 =>321 
